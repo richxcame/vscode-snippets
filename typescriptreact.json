@@ -1,0 +1,15 @@
+{
+	"Functional component": {
+		"prefix": "fc",
+		"body": [
+			"import type { FC } from 'react'",
+			"",
+			"const $1: FC = () => {",
+			"\treturn <>$0</>",
+			"}",
+			"",
+			"export default $1"
+		],
+		"description": "Creates react functional component with typescript"
+	}
+}

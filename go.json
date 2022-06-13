@@ -1,0 +1,6 @@
+{
+  "Main": {
+    "prefix": "main",
+    "body": ["package main", "", "func main() {", "\t$0", "}"]
+  }
+}
